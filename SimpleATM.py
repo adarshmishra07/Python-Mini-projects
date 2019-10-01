@@ -1,8 +1,7 @@
-acc_details = {'nikita':[203, 123456, 5000],
-               'adarsh': [103, 789456, 10000],
-               'mandar': [109, 987878, 1000],
-               'durvesh': [101, 784512, 25000]}
-               #'Morty': [1598, 895623, 15000]}
+acc_details = {'Ram':[203, 123456, 5000],
+               'Sham': [103, 789456, 10000],
+               'Baam': [109, 987878, 1000],
+               'Morty': [1598, 895623, 15000]}
 print('\t\t\t\t\t\t-----WELCOME TO ATM-----\n')
 while True:
 	s = int(input('Enter the corresponding number: 1. Check balance 2. Deposit money 3. Withdraw money 4. Exit\n'))
